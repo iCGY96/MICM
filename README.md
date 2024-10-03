@@ -102,4 +102,4 @@ If you find our work useful for your research, please consider giving a star :st
 ```
 
 ## Acknowledgement
-his repo is developed based on [SMKD](https://github.com/HL-hanlin/SMKD), [iBOT](https://github.com/bytedance/ibot), [BECLR](https://github.com/stypoumic/BECLR) and [SemanticPrompt](https://github.com/WentaoChen0813/SemanticPrompt). Thanks for their wonderful codebases.
+This repo is developed based on [SMKD](https://github.com/HL-hanlin/SMKD), [iBOT](https://github.com/bytedance/ibot), [BECLR](https://github.com/stypoumic/BECLR) and [SemanticPrompt](https://github.com/WentaoChen0813/SemanticPrompt). Thanks for their wonderful codebases.
