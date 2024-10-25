@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> [**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**](https://arxiv.org/abs/2301.11929)  
+> [**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**](https://arxiv.org/abs/2408.13385)  
 > **Authors**: Zhenyu Zhang*, [Guangyao Chen*](https://icgy96.github.io/), [Yixiong Zou](https://scholar.google.com/citations?user=VXxF0mcAAAAJ&hl=zh-CN), Zhimeng Huang, Yuhua Li, and Ruixuan Li  
 > Presented at the 32nd ACM International Conference on Multimedia (MM ’24), Oral Presentation.  
 > [arXiv](https://arxiv.org/abs/2408.13385) | [Bibtex](https://github.com/iCGY96/MICM#citation)
